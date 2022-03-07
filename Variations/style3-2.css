@@ -1,0 +1,38 @@
+small{
+    background-color: rgb(190, 226, 226);
+    color: rgb(46, 6, 41);
+    border-width: 1px;
+    border-style:solid;
+    
+    border-top-color:rgb(252, 213, 213);
+    
+    border-bottom-color:rgb(19, 2, 4);
+    
+    border-left-color:black;
+    
+    border-right-color:rgb(2, 2, 17);
+    
+}
+
+strong {
+    padding-left: 5px;
+    background-color: rgb(250, 219, 219);
+}
+h1{
+    border: 0.5px solid;
+    color:rgb(27, 124, 48)
+    }
+h2{
+    font-display:arial ;
+    border: 1px solid;
+    color:rgb(177, 219, 186)
+}
+
+h3{
+    color:rgb(206, 184, 221);
+    margin-top: 10px;
+}
+div{
+    scroll-padding-block: rgb(243, 139, 139);
+
+}
