@@ -14,18 +14,18 @@ h1{
         75%  {background-color:rgb(223, 255, 223); left:0px; top:200px;}
         100% {background-color:rgb(255, 230, 230); left:0px; top:0px;}
       }
-    em{
+    p{
         color:rgb(31, 33, 134);
     margin-top: 10px;
     font-family: 'Times New Roman', Times, serif;
     text-transform: initial;
     font-size: larger;
     animation-name: s;
-  animation-duration: 4s;
+  animation-duration: 10s;
     }
-    button{
+    p{
         color: rgb(22, 22, 139);
-        border-radius: 5px;
+        border-radius: 4px;
         font-size: 16px;
         background-color: rgb(196, 228, 243);
         transition-duration: 0.4s;
@@ -35,8 +35,4 @@ h1{
         display: inline-block;
         
     }
-   button:hover{
-    background-color:rgb(196, 228, 243);
-    
-    color:white
-   }
+  
