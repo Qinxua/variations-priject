@@ -1,0 +1,57 @@
+h1{
+    background-color: rgb(4, 0, 245);
+    color: rgb(255, 225, 225);
+    border-width: 4px;
+    border-style:double;
+    text-align: left;  
+    font-size: smaller;
+    font-variant: small-caps;
+    font-style: unset;
+}
+
+div {
+    padding-left: 2px;
+    padding-block-start: 5;
+    background-color: rgb(231, 216, 160);
+    font-style: initial;
+}
+em{
+    border: 0.5px solid;
+    color:rgb(219, 248, 255)
+    float：2;
+    color: rgb(255, 221, 251);
+    margin:unset;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(183, 225, 226);
+    }
+h2{
+    font-display:arial ;
+    font-size: larger;
+    border: 8px solid;
+    border-color: rgb(120, 247, 247);
+    color:rgb(145, 151, 224)
+}
+
+body{
+    color:rgb(226, 184, 255);
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: initial;
+}
+h3{
+    scroll-padding-block: rgb(255, 232, 232);
+    display:grid;
+    letter-spacing: 3px;
+    font-weight: 400;
+    font-style: oblique;
+}
+em{
+    color:rgb(255, 122, 74);
+    line-height: normal;
+    background-position-x: left;
+    border-width: 1px;
+    border-style:solid;
+    border-top:rgb(9, 158, 109);
+    line-height: 5px;
+}

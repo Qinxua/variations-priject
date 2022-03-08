@@ -1,0 +1,101 @@
+
+@keyframes m {
+    0%   {background-color:rgb(253, 201, 201); left:0px; top:0px;}
+    25%  {background-color:rgb(255, 255, 215); left:200px; top:0px;}
+    50%  {background-color:rgb(177, 177, 255); left:200px; top:200px;}
+    75%  {background-color:rgb(211, 255, 211); left:0px; top:200px;}
+    100% {background-color:rgb(250, 204, 204); left:0px; top:0px;}
+  }
+  
+  /* The element to apply the animation to */
+body{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: rgb(250, 185, 236);
+    animation-name: m;
+    animation-duration: 4s;
+  }
+body{
+    
+    color: rgb(235, 108, 167);
+    border-width: 4px;
+    border-style:double;
+    text-align: left;  
+    font-size: smaller;
+    font-variant: small-caps;
+    font-style: unset;
+    background-image: url(07354fe4d2eca6a12e9038e555b3adc4.jpeg);
+}
+@keyframes i {
+    0%   {background-color: rgb(255, 196, 196);}
+    25%  {background-color: rgb(252, 252, 198);}
+    50%  {background-color: rgb(161, 161, 255);}
+    100% {background-color: rgb(191, 255, 191);}
+  }
+  
+  /* The element to apply the animation to */
+  h1{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: rgb(132, 221, 184);
+    animation-name: i;
+    animation-duration: 4s;
+    animation-iteration-count: 2;
+    animation-direction: alternate-reverse;
+  }
+@keyframes s {
+    0%   {background-color: rgb(255, 232, 232);}
+    25%  {background-color: rgb(252, 183, 183);}
+    50%  {background-color: rgb(255, 81, 81);}
+    100% {background-color: rgb(181, 222, 255);}
+  }
+  
+  /* The element to apply the animation to */
+  em{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 240, 240);
+    animation-name: s;
+    animation-duration: 4s;
+    border: 0.5px solid;
+    color:rgb(219, 248, 255)
+    float：2;
+    color: rgb(153, 65, 143);
+    margin:unset;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(183, 225, 226);
+    }
+h2{
+    font-display:arial ;
+    font-size: larger;
+    border: 8px solid;
+    border-color: rgb(12, 131, 131);
+    color:rgb(206, 101, 94);
+    
+}
+
+ul{
+    color:rgb(255, 171, 122);
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: initial;
+}
+em{
+    scroll-padding-block: rgb(255, 232, 232);
+    display:grid;
+    letter-spacing: 3px;
+    font-weight: 400;
+    font-style: oblique;
+}
+h3{
+    color:rgb(255, 122, 74);
+    line-height: normal;
+    background-position-x: left;
+    border-width: 1px;
+    border-style:solid;
+    border-top:rgb(9, 158, 109);
+    line-height: 20px;
+}
